@@ -19,7 +19,7 @@
     "parrot-logger": "^1.0.0",
     "reflect-metadata": "^0.1.13",
     "sqlite3": "^5.0.0",
-    "typeorm": "^0.2.25",
+    "typeorm": "^0.2.34",
     "utility-types": "^3.10.0",
     "yargs-parser": "^18.1.3"
   },
